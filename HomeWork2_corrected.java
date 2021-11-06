@@ -1,9 +1,9 @@
 /**
-* Homework 2.
+* Homework 2_corrected.
 *
 * @author Alex Murachev
 *
-* @version 05.11.2021
+* @version 06.11.2021
 */
 
 class HomeWork2 {
