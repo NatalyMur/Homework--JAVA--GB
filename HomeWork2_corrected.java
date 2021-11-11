@@ -6,7 +6,7 @@
 * @version 06.11.2021
 */
 
-class HomeWork2 {
+class HomeWork2_corrected {
     public static void main(String[] args) {
         System.out.println(sum10_20(6, 7));
         System.out.println(sum10_20(1, 7));
