@@ -10,10 +10,10 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
 /**
- * Java. Classic Game Snake
+ * Homework 8.
  *
- * @author Sergey Iryupin
- * @version 0.7.7 dated Oct 26, 2021
+ * @author Alex Murachev
+ * @version 27.11.2021
  */
 
 public class GameSnake extends JFrame {
